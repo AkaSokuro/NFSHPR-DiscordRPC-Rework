@@ -9,6 +9,12 @@
   An addon for NFS:HPR Discord Game Activity to display more details of game status.
 </p>
 
+# Features
+- <b>Big Icon</b> - Playing Career / Track Name
+- <b>Small Icon</b> - Ingame Username
+- <b>Detail</b> - Game State / Playing Car
+- <b>State</b> - Car Series & Mode
+
 # Installation
 1. Download the latest version of addon from <a href="https://github.com/AkaSokuro/NFSHPR-DiscordRPC-Rework/releases">Releases</a>. (<b>Choose `NFSHPR-DiscordRPC-Rework.zip` not Source code</b>)
 2. Unzip the file into the game directory, where the executable (.exe) is located. (<b>Overwrite existing files</b>)
